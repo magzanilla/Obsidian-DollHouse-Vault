@@ -8,8 +8,8 @@ cssclasses:
 ## Navigation
 
 - 📘Agenda
-	- [Daily](obsidian://advanced-uri?vault=DollHouse&daily=true)
-	- [Weekly](obsidian://advanced-uri?vault=DollHouse&commandid=calendar%253Aopen-weekly-note)
+	- [Daily](obsidian://advanced-uri?vault=Obsidian-DollHouse-Vault&daily=true)
+	- [Weekly](obsidian://advanced-uri?vault=Obsidian-DollHouse-Vault&commandid=calendar%253Aopen-weekly-note)
 
 - 🔎Tracking
 	- [[Habit Dashboard]]
